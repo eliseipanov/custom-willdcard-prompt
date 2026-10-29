@@ -1,0 +1,13 @@
+[project]
+name = "custom-wildcard-prompt"
+description = "A simple wildcard prompt node with seed control and debug output."
+version = "0.1.0"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+
+[project.urls]
+Repository = "https://github.com/eliseipanov/custom-willdcard-prompt"
+
+[tool.comfy]
+PublisherId = "твій-publisher-id"
+DisplayName = "Custom Wildcard Prompt"
