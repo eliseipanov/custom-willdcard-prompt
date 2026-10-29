@@ -9,5 +9,5 @@ requires-python = ">=3.9"
 Repository = "https://github.com/eliseipanov/custom-willdcard-prompt"
 
 [tool.comfy]
-PublisherId = "твій-publisher-id"
+PublisherId = "olemara"
 DisplayName = "Custom Wildcard Prompt"
